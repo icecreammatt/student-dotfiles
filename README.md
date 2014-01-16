@@ -1,10 +1,7 @@
-dotfiles
-========
-
 # Setup
 
 ```
-git clone git@bitbucket.org:icecreammatt/student-dotfiles.git dotfiles
+git clone https://github.com/icecreammatt/student-dotfiles.git dotfiles
 cd dotfiles
 ./setup.sh
 ```
